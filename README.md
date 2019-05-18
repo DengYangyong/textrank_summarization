@@ -16,6 +16,6 @@
 
     （2）github地址 ：https://github.com/prateekjoshi565/textrank_text_summarization
     
-    （3）这里的 '/textrank_text_summarization/'的内容就是那个github里的，我稍微调整了一下
+    （3）这里的 '/Textrank_Text_Summarization/'的内容就是那个github里的，我稍微调整了一下
     
 
